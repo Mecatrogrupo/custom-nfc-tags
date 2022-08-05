@@ -1,5 +1,5 @@
 ## Acerca de
-Proyecto con el objetivo de producir carcasas y antenas caseras personalizadas para etiquetas NFC con métodos de trabajo metódicos. Se ha trabajado para disolver tarjetas existentes y probar sus chips para adaptarlos a carcasas personalizadas.<br/>
+Proyecto con el objetivo de producir carcasas y antenas caseras personalizadas para etiquetas NFC con métodos de trabajo metódicos. Se ha trabajado en disolver tarjetas existentes y probar sus chips para adaptarlos a carcasas personalizadas.<br/>
 Actualmente este repositorio es un trabajo en progreso, pero en los próximos días estaremos subiendo un prototipo de bobinador, información para analizar y trabajar con chips nfc, una guía para afinar y hacer antenas, hallazgos sobre el sistema argentino, modelos 3D para discos de etiquetas estandarizadas, y llaveros y pulseras que funcionan con estos.
 
 <hr />
