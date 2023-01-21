@@ -9,19 +9,19 @@ Mecatrogrupo 2022.
 </th>
 <tr>
 <td>
-This source describes Open Hardware and is licensed under the 
+Esta fuente describe Hardware Abierto y está licenciada bajo la licencia 
 CERN-OHL-W v2
 </td>
 </tr>
 <tr>
 <td>
-You may redistribute and modify this documentation and make products
-using it under the terms of the CERN-OHL-W v2 (https:/cern.ch/cern-ohl).
-This documentation is distributed WITHOUT ANY EXPRESS OR IMPLIED
-WARRANTY, INCLUDING OF MERCHANTABILITY, SATISFACTORY QUALITY
-AND FITNESS FOR A PARTICULAR PURPOSE. Please see the CERN-OHL-W v2
-for applicable conditions.<br/>
-Source location: https://github.com/Mecatrogrupo/custom-nfc-tags/
+Puede redistribuir y modificar esta documentación y crear productos
+que la utilicen bajo los términos del CERN-OHL-W v2 (https:/cern.ch/cern-ohl).
+Esta documentación se distribuye SIN NINGUNA GARANTÍA EXPRESA O IMPLÍCITA
+GARANTÍA, INCLUIDA LA DE COMERCIABILIDAD, CALIDAD SATISFACTORIA
+E IDONEIDAD PARA UN FIN DETERMINADO. Por favor refiérase a la CERN-OHL-W v2
+para condiciones aplicables.<br/>
+Ubicación de la fuente: https://github.com/Mecatrogrupo/custom-nfc-tags/
 </td>
 </tr>
 </table>
