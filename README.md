@@ -4,7 +4,7 @@
 [![TIENDA](https://img.shields.io/badge/Tienda-53B755?style=for-the-badge&logo=&logoColor=white)](http://tienda.mecatrogrupo.com)
   
 ## Objetivo
-Lograr convertir diferentes tarjetas NFC en un dispositivo más pequeño que cumpla la misma función, como un llavero o una pulsera. Esto incluye: extraer los chips y armarles otra carcasa, clonar tarjetas a otros formatos, combinar diferentes tecnologías en una, diseñar métodos para hacerlo en masa, y documentar los hallazgos en general.
+Lograr convertir diferentes tarjetas NFC dispositivos más pequeños que cumplan las mismas funciónes, como llaveros o pulseras. Esto incluye: extraer los chips y armarles otra carcasa, clonar tarjetas a otros formatos, combinar diferentes tecnologías en una, diseñar métodos para hacerlo en masa, y documentar los hallazgos en general.
 
 ## Hallazgos sobre diferentes sistemas
 ### Transporte argentino
