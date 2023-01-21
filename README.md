@@ -1,3 +1,7 @@
+https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
+https://img.shields.io/badge/P%C3%81GINA%20WEB-21759B?style=for-the-badge&logo=WordPress&logoColor=white
+https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
+
 ## About
 Project with the goal of producing custom homemade shells and antenas for NFC tags using a streamlined workflow. Work has been done to dissolve existing cards and test their chips to retrofit them into custom enclosures.<br/>
 Currently this repository is a work in progress, but in the upcomming days we will be uploading a coil winder prototype, guide sources for analizing and working with nfc chips, a guide for tuning and making diy antenas, findings on the argentinian system, 3d models for standarized tag disks, and keychains and wristbands that work with these.
