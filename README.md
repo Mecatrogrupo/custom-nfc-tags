@@ -14,8 +14,10 @@ Las tarjetas pueden ser leídas por teléfonos, pero testear antenas armadas con
 
 Los chips internos vienen en dos tamaños: 7,5mm x 5mm y 6mm x 3mm.
 
-## Diseño circular (la sección necesita un nombre mejor)
-*Descripción general del diseño y foto*
+## Diseño circular de llavero
+Este diseño de llavero se basa en un cuerpo con un disco interno con el chip de la tarjeta, una bobina de cobre esmaltado, y un capacitor. Este último es necesario para lograr que la antena resuene bien a la frecuencia de los lectores, ya que seleccionar el alambre justo con la cantidad de vueltas justa es mucho más difícil, y resulta en una distancia de lectura menor. \
+Testeamos variantes print in place (se imprime el cuerpo hasta la mitad y después se coloca el llavero) y no print in place (se imprimen por separado y conectan a presión), y encontramos que la segunda es mucho más fácil de armar y no presenta desventajas considerables (solo queda un poquito más grande). \
+Hay instrucciones de armado usando el ejemplo de transporte Argentino en /Manuales/Armado.md.
 
 ### Medias testeadas que funcionan
 *foto con las diferentes medidas*
@@ -32,9 +34,6 @@ F: medida del capacitor
 | n | l       | d       | D  | H  | h  | L     | F    |
 |---|---------|---------|----|----|----|-------|------|
 | 7 | ~ 69 cm | 0,25 mm | ?? | ?? | ?? | buena | 39pF |
-
-#### Transporte argentino
-
 
 
 <hr />
