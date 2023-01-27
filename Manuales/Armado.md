@@ -3,7 +3,7 @@
 1. Materiales
 - Tarjeta a convertir
 - Disco de 25mm de diámetro y ~35mm de alto para la bobina.
-- Alambre de cobre esmaltado de 0,25mm de grosor y 70cm de largo (7 vueltas al disco). 
+- Alambre de cobre esmaltado de 0,25mm de grosor y 60cm de largo (7 vueltas al disco). 
 - Capacitor cerámico de 39pf
 - Cuerpo
 *Tanto el disco como el cuerpo es recomendado imprimirlos en 3D con los modelos provistos en /Modelos 3D*
