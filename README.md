@@ -1,10 +1,11 @@
-![Foto explotada llavero](https://raw.githubusercontent.com/Mecatrogrupo/custom-nfc-tags/main/Fotos/render1Cuadrado.png)
 
 <!--- [![PÁGINA WEB](https://img.shields.io/badge/P%C3%81GINA%20WEB-21759B?style=for-the-badge&logo=WordPress&logoColor=white)](http://mecatrogrupo.com) --->
 [![INSTAGRAM](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](http://instagram.com/mecatrogrupo)
 [![CONTACTO](https://img.shields.io/badge/Contacto-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contacto@mecatrogrupo.com)
 [![TIENDA](https://img.shields.io/badge/Tienda-53B755?style=for-the-badge&logo=&logoColor=white)](http://mecatrogrupo.com)
-  
+
+<img src="https://raw.githubusercontent.com/Mecatrogrupo/custom-nfc-tags/main/Fotos/render1Cuadrado.png" alt="Foto explotada llavero" width="350"/>
+
 ## Objetivo
 Lograr convertir diferentes tarjetas NFC dispositivos más pequeños que cumplan las mismas funciónes, como llaveros o pulseras. Esto incluye: extraer los chips y armarles otra carcasa, clonar tarjetas a otros formatos, combinar diferentes tecnologías en una, diseñar métodos para hacerlo en masa, y documentar los hallazgos en general.
 
