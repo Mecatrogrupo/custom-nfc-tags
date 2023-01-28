@@ -1,6 +1,6 @@
 <!--- [![PÁGINA WEB](https://img.shields.io/badge/P%C3%81GINA%20WEB-21759B?style=for-the-badge&logo=WordPress&logoColor=white)](http://mecatrogrupo.com) --->
 [![INSTAGRAM](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](http://instagram.com/mecatrogrupo)
-[![CONTACTO](https://img.shields.io/badge/Contacto-D14836?style=for-the-badge&logo=gmail&logoColor=white)](http://mecatrogrupo.com)
+[![CONTACTO](https://img.shields.io/badge/Contacto-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contacto@mecatrogrupo.com)
 [![TIENDA](https://img.shields.io/badge/Tienda-53B755?style=for-the-badge&logo=&logoColor=white)](http://mecatrogrupo.com)
   
 ## Objetivo
