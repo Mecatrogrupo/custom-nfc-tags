@@ -46,7 +46,7 @@ Mecatrogrupo 2022.
 </th>
 <tr>
 <td>
-Esta fuente describe Hardware Abierto y está licenciada bajo la licencia 
+Esta fuente describe Hardware Libre y está licenciada bajo la licencia 
 CERN-OHL-W v2
 </td>
 </tr>
